@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sky_D的知乎</string>
+    <string name="byUsername">用户名登录</string>
+    <string name="byXinlang">新浪微博</string>
+    <string name="byTencent">腾讯微博</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="loginByUsername">用户名和密码登录</string>
+    <string name="login">登录</string>
+    <string name="logined">登录成功(用RecyclerView显示本次登陆用户名和密码)</string>
+</resources>
